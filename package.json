@@ -11,6 +11,8 @@
   "repository": {
     "type": "git",
     "url": "github.com/yossi-neeman/Hello-World.git"
-    
+  },
+  "dependencies": {
+    "webdriverio": "^4.2.11"
   }
 }
