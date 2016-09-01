@@ -1,0 +1,11 @@
+{
+  "name": "webdriverio_helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
